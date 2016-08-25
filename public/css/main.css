@@ -1,0 +1,53 @@
+body{
+	padding: 10px 0;
+	background-color: #eee
+}
+
+.pull-right{
+	float: right;
+}
+
+.main-content{
+	min-height: 550px;
+}
+
+.main-content{
+	background: #fff;
+	border-radius: 4px;
+	/*padding: 10px;*/
+}
+
+.footer{
+	margin-top:25px; 
+}
+
+.title h1{
+	padding: 20px;
+	border-bottom: 1px solid #eee;
+}
+.title h1 ul{
+	list-style: none;
+}
+
+.title h1 ul li{
+	display: inline-block;
+}
+
+.title h1 ul li a{
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.table-list{
+	padding: 10px 20px;
+}
+
+.red{
+	color:red;
+}
+
+.form-wrapper{
+    width: 650px;
+    margin: 50px auto;
+    padding: 25px 0;
+}
